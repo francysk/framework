@@ -1,0 +1,12 @@
+{
+    "name": "francysk/framework",
+    "description": "Bitrix SubFramework by Francysk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Francysk",
+            "email": "info@francysk.com"
+        }
+    ],
+    "require": {}
+}
